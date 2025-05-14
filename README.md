@@ -13,7 +13,7 @@ An interactive web-based tool built with **HTML, CSS, and JavaScript** to visual
 - **Responsive UI:** Supports light and dark themes
 
 ## Screenshot
-
+![Image](https://github.com/user-attachments/assets/6bcf8d18-4d4b-4fce-b74a-49bc8055c3f9)
 
 ## Getting Started
 1. Clone this repository or download the ZIP file.
